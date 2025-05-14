@@ -22,7 +22,7 @@
                     <h3 className="card-title">{products.title}</h3>
        
                         <section className="card-reviews">
-                        <AiFillStar className="rating-star"/><AiFillStar /><AiFillStar/>
+                        <AiFillStar className="rating-star"/><AiFillStar />
                         <span className="total-reviews">{products.rating.count}</span>
                         </section>
        
